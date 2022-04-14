@@ -1,5 +1,6 @@
 # Control
 Terminalden 1'den 6'ya kadar rakam olarak input alan bir programda,
+
      - Tüm inputlar kontrollü olarak alınır.
      - 1 inputu -> matplotlib kullanılarak oluşturulan bir grafiği ekranda gösterir.
      - 2 inputu -> home directory'sinde autodrive_stajyer klasörü içerisindeki txt dosyalarını bulup terminale yazdırır. 2'nin katı olan txt dosyaları içerisine map'te dosya ismine karşılık gelen key'in value değerini yazdırır. (glob kütüphanesi kullanılacak).
